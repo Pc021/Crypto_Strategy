@@ -1,2 +1,2 @@
-# Desafio Quant Itaú
-Repositório dedicado ao Desafio Quant Itaú realizado em 2024.
+# Modelagem Portfólio Crypto
+Repositório dedicado a criação de um estratégia de investimento em cryptomoedas.
